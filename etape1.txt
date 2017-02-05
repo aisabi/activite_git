@@ -1,3 +1,5 @@
 1/ Aller sur le profil github et créer un nouveau repo en ligne
 
 2/ Créer un repo identique en local avec la commande mkdir
+
+3/ Se placer au niveau du dossier via la commande cd puis faire un git init
