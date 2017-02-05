@@ -3,3 +3,5 @@
 2/ Créer un repo identique en local avec la commande mkdir
 
 3/ Se placer au niveau du dossier via la commande cd puis faire un git init
+
+4/ Lancer la connection avec : git remote add origin https://github.com/nomutilisateur/NomDuRepo.git
