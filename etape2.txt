@@ -4,3 +4,5 @@
 
 3/ Faire un commit. Exemple : git commit -m "Votre texte ici" 
    NB : si il existe déjà un commit on utilise le raccourci : git commit -am "Votre texte ici"
+
+4/ Envoyer le commit local vers github avec la commande push. Exemple : git push origin master
